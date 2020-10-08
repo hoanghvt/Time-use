@@ -1,0 +1,17 @@
+ 
+#############################################################################
+#  This file is part of the SOCRATES repository. 
+#
+#  The software and data are distributed in the hope that they will be useful,
+#  but WITHOUT ANY WARRANTY; without even the implied warranty of
+#  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
+#
+#  Copyright 2019, SOCRATES team UA/UHASSELT
+#############################################################################
+
+VERSION ID: 64
+LAST UPDATE: Fri Apr 26 09:42:23 2019
+
+#############################################################################
+
+
